@@ -21,7 +21,7 @@ const createStream = () => {
   return new RawStream();
 };
 
-module.exports = name => bunyan.createLogger({
+module.exports = (name) => bunyan.createLogger({
   name,
   streams: [
     {
