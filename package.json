@@ -1,6 +1,6 @@
 {
   "name": "bunyan-wrapper",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Convenience wrapper around bunyan/-prettystream",
   "main": "index.js",
   "scripts": {
